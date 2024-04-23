@@ -1,0 +1,6 @@
+/home/mariana/Documents/github/til-cpp/template/CMakeFiles/rebuild_cache.dir
+/home/mariana/Documents/github/til-cpp/template/CMakeFiles/edit_cache.dir
+/home/mariana/Documents/github/til-cpp/template/CMakeFiles/main.dir
+/home/mariana/Documents/github/til-cpp/template/node/CMakeFiles/rebuild_cache.dir
+/home/mariana/Documents/github/til-cpp/template/node/CMakeFiles/edit_cache.dir
+/home/mariana/Documents/github/til-cpp/template/node/CMakeFiles/node.dir
